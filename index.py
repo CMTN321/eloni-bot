@@ -8,15 +8,15 @@ import os
 from datetime import datetime
 from colorama import Back, Fore, Style
 import platform
-from impvars import *
 import aiohttp
-
+import dotenv
 
 # -- Vars --
 time_now = datetime.now()
 time_format_1 = ' %a, %B, %#d, %Y, %I:%M %p '
 time_format_2 = ' %x : %X '
 bars = ('--------------------------------------------------')
+dotenv.load_dotenv('.env')
 
 # -- Dicionários --
 actions = {
