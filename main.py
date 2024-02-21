@@ -7,7 +7,7 @@ import os
 import math
 import random
 from keys import *
-# -- Importações talvez necessárias ;-; --
+# -- Importações necessárias ;-; (talvez) --
 # -------------------------------------------------
 
 # -- Variáveis --
@@ -31,5 +31,5 @@ async def on_ready():
 
 
 
- # Rodando o bot
+ # Rodando o bot a partir do token do dc
 bot.run(token)
