@@ -1,3 +1,2 @@
-Bom, um simples projeto de bot para discord feito por um iniciante em Python.
-Tudo muito bagunçado, mas tentarei melhorar.
-Basicamente isso mesmo ;-;
+Bom, um projeto simples de bot para discord.
+Acabei parando de atualizar, pois pretendia mudar algumas coisas.
